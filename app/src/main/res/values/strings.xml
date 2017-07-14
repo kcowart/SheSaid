@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">She Said</string>
+    <string name="greet">What She Said</string>
+    <string name="next_quote">Q</string>
+
+    <string name="default_quote">If you are feeling helpless, help someone. \n-Aung San Suu Kyi</string>
+    <string name="aung2_quote">The only real prison is fear. The only real freedom is freedom from fear. \n-Aung San Suu Kyi</string>
+    <string name="aung3_quote">It is not power that corrupts but fear. \n-Aung San Suu Kyi</string>
+    <string name="maya1_quote">I\'ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel. \n-Maya Angelou</string>
+    <string name="maya2_quote">If you don\'t like something, change it. If you can\'t change it, change your attitude.\n-Maya Angelou</string>
+    <string name="amelia1_quote">Never interrupt someone doing what you said couldn\'t be done.\n-Amelia Earhart</string>
+    <string name="amelia2_quote">Adventure is worthwhile in itself. \n-Amelia Earhart</string>
+    <string name="amelia3_quote">Use your fear. It can take you to the place where you store your courage.\n-Amelia Earhart</string>
+    <string name="ada1_quote">Imagination is the Discovering Faculty, pre-eminantly.\n-Ada Lovelace</string>
+    <string name="ada2_quote">A new, a vast and a powerful language is developed for the future use of analysis.\n-Ada Lovelace</string>
+    <string name="helen1_quote">Optimism is the faith that leads to achievement.\n-Helen Keller</string>
+    <string name="helen2_quote">The only thing worse than being blind is having sight but no vision.\n-Helen Keller</string>
+    <string name="helen3_quote">Smell is a potent wizard that transports you across thousands of miles and all the years you have lived.\n-Helen Keller</string>
+    <string name="helen4_quote">No pessimist ever discovered the secret of the stars, or sailed to an uncharted land, or opened a new doorway for the human spirit.\n-Helen Keller</string>
+    <string name="helen5_quote">The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.\n-Helen Keller</string>
+    <string name="me1_quote">Irony is a rooster crowing about the clucking of hens. \n-A Hen</string>
+    <string name="elean1_quote">No one can make you feel inferior without your consent.\n-Eleanor Roosevelt</string>
+    <string name="elean2_quote">Happiness is not a goal. It is a by-product.\n-Eleanor Roosevelt</string>
+    <string name="elean3_quote">Where do human rights begin? In small places close to home. \n-Eleanor Roosevelt</string>
+    <string name="mala1_quote">We cannot all succeed when half of us are held back. \n-Malala Yousafzai</string>
+    <string name="juana1_quote">I walk beneath your pens, and am not what I truly am, but what you\'d prefer to imagine me. \n-Juana Inés de la Cruz</string>
+    <string name="winona1_quote">Someone needs to explain to me why wanting clean drinking water makes you an activist, and why proposing to destroy water with chemical warfare doesn\'t make a corporation a terrorist. \n-Winona Laduke</string>
+</resources>
